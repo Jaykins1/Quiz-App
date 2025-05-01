@@ -2,7 +2,7 @@
 
 A responsive, feature-rich quiz application built with pure HTML, CSS, and JavaScript. Test your knowledge with timed questions, get immediate feedback, and track your progress through multiple challenges.
 
-![Quiz Game Screenshot](quiz-game-./screenshot/quiz.png)
+![Quiz Game Screenshot](/screenshot/quiz.png)
 
 ## Table of Contents
 
